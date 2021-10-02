@@ -1,0 +1,4 @@
+tensorflow==2.6
+nltk==3.6.3
+fastapi
+uvicorn[standard]
