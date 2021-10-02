@@ -4,6 +4,7 @@
     The traning file is inside **Train** Folder. 
 
 ## Running Inference
+- Upgrade pip before installing requirments
 - Install all the required Python dependencies:
 ```
 pip install -r requirements.txt
