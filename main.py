@@ -4,6 +4,7 @@ from fastapi import FastAPI
 import tensorflow
 import nltk
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 stop = stopwords.words('english')
 import re
 from tensorflow.keras.preprocessing.text import Tokenizer
